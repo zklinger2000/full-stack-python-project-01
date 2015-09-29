@@ -1,6 +1,6 @@
 # full-stack-python-project-01
 
-[![Udacity Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Udacity_Logo.svg/400px-Udacity_Logo.svg.png)](http://udacity.com/)
+[![Udacity Logo](https://lh6.ggpht.com/oEFKYOtIX6yuG_aTdDOBiREqEks24HYss4WD3aSvfhlip2fu0-Qli8wZwni6iwrwfFmE3kdt8gWiUNyr4W4=s0#w=75&h=75)](http://udacity.com/)
 
 MEAN.JS is a full-stack JavaScript open-source solution, which provides a solid starting point for [MongoDB](http://www.mongodb.org/), [Node.js](http://www.nodejs.org/), [Express](http://expressjs.com/), and [AngularJS](http://angularjs.org/) based applications. The idea is to solve the common issues with connecting those frameworks, build a robust framework to support daily development needs, and help developers use better practices while working with popular JavaScript components.
 
