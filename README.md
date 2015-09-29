@@ -14,8 +14,6 @@ Make sure you have installed all of the following prerequisites on your developm
 
 ## To run this application:
 * Download or clone this repository to your local drive.
-* Open ```bash
-  entertainment_center.py```
-  in IDLE.
-* Click on Run->Run Module or hit F5 to run the application.
-* [Option] - Modify the movie names and Youtube links in entertainment_center.py to test is your favorite movies work!
+* Open [entertainment_center.py](https://github.com/zklinger2000/full-stack-python-project-01/blob/master/movies/entertainment_center.py) in IDLE.
+* Click on Run->Run Module or hit ```F5``` to run the application.
+* [Option] - Modify the movie names and Youtube links in [entertainment_center.py](https://github.com/zklinger2000/full-stack-python-project-01/blob/master/movies/entertainment_center.py) to test is your favorite movies work!
