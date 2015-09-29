@@ -1,5 +1,5 @@
 # full-stack-python-project-01
-[![Nanodegree Logo](https://avatars2.githubusercontent.com/u/1916665?v=3&s=160)](http://udacity.com/)
+[![Nanodegree Logo](https://avatars2.githubusercontent.com/u/1916665?v=3&s=80)](http://udacity.com/)
 September 29th, 2015
 
 This repository is for Project #1 of the Nanodegree for Full-Stack Web Devs at Udacity.
