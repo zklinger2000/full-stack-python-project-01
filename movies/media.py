@@ -3,8 +3,6 @@ import urllib
 import json
 
 #===============================================================================
-# Movie
-#-------------------------------------------------------------------------------
 class Movie():
 #===============================================================================
     """ This class provides a way to store movie related information """
@@ -36,8 +34,9 @@ class Movie():
     def get_movie_info(self, movie_title):
     #===========================================================================
         # request JSON data for Movie
-        connection = urllib.urlopen("http://www.omdbapi.com/?t=" + movie_title +
-                                    "&y=&plot=short&r=json")
+        connection = urllib.urlopen(
+            "http://www.omdbapi.com/?t=" + movie_title + "&y=&plot=short&r=json"
+            )
         # saving the response
         jsonData = connection.read()
         # parsing JSON data
