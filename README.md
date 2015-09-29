@@ -9,7 +9,7 @@ Server-side code stores a list of favorite movies and a movie trailer URL. The M
 
 ## Prerequisites
 Make sure you have installed all of the following prerequisites on your development machine:
-* Python 2.7 - [Download & Install Python 2.7](https://www.python.org/download/releases/2.7/) If you encounter any problems, read the documentation.
+* Python 2.7 - [Download & Install Python 2.7](https://www.python.org/download/releases/2.7/). If you encounter any problems, read the documentation.
 
 ## To run this application:
 * Download or clone this repository to your local drive.
