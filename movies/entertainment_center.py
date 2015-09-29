@@ -1,16 +1,16 @@
+# preprocessor directives
 import fresh_tomatoes
 import media
 
-toy_story = media.Movie("Toy Story", "A story about toys",
-                        "http://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg",
-                        "https://www.youtube.com/watch?v=KYz2wyBy3kc")
+# Movie objects
+bladerunner = media.Movie("Blade Runner", "https://www.youtube.com/watch?v=4lW0F1sccqk")
+mad_max = media.Movie("Mad Max: Fury Road", "https://www.youtube.com/watch?v=hEJnMQG9ev8")
+point_break = media.Movie("Point Break", "https://www.youtube.com/watch?v=0hd49bnStgU")
+brazil = media.Movie("Brazil", "https://www.youtube.com/watch?v=4Wh2b1eZFUM")
+isteve = media.Movie("iSteve", "https://www.youtube.com/watch?v=0FChm-Ayj7g")
 
-#print(toy_story.storyline)
+# an array of Movie objects
+movies = [bladerunner, point_break, mad_max, brazil, isteve]
 
-#toy_story.show_trailer()
-
-#movies = [toy_story]
-
-#fresh_tomatoes.open_movies_page(movies)
-
-toy_story.get_movie_info("School of Rock")
+# calling fresh_tomatoes() to create page
+fresh_tomatoes.open_movies_page(movies)
