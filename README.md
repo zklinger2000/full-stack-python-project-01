@@ -5,10 +5,17 @@
 September 29th, 2015
 This repository is for Project #1 of the Nanodegree for Full-Stack Web Devs at Udacity.
 
-## Movie Trailer Website
-Server-side code stores a list of favorite movies, including box art imagery and a movie trailer URL. This code then generates a static web page allowing visitors to browse their movies and watch the trailers.
+# Movie Trailer Website
+Server-side code stores a list of favorite movies and a movie trailer URL. The Movie class's constructor automatically searches www.omdbapi.com for the movie's information.  This code then generates a static web page allowing visitors to browse their movies and watch the trailers.
 
 ## Prerequisites
 Make sure you have installed all of the following prerequisites on your development machine:
 * Python 2.7 - [Download & Install Python 2.7](https://www.python.org/download/releases/2.7/) If you encounter any problems, read the documentation.
 
+## To run this application:
+* Download or clone this repository to your local drive.
+* Open ```bash
+  entertainment_center.py```
+  in IDLE.
+* Click on Run->Run Module or hit F5 to run the application.
+* [Option] - Modify the movie names and Youtube links in entertainment_center.py to test is your favorite movies work!
